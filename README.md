@@ -1,16 +1,38 @@
 # todo_app
 
-A new Flutter project.
+This a simple todo app built with Flutter to demonstrate offline first architecture using Hive.
+It also uses the GetX state management library and Connectivity package to check for internet connection.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+You need to have Flutter installed on your machine. You can follow the instructions [here](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository
+
+```
+git clone 
+```
+
+Install dependencies
+
+```
+flutter pub get
+```
+
+Run the app
+
+```
+flutter run
+```
+
+## Built With
+
+* [Flutter](https://flutter.dev/) - The mobile framework used
+* [Hive](https://pub.dev/packages/hive) - The database used
+* [GetX](https://pub.dev/packages/get) - The state management library used
+* [Connectivity](https://pub.dev/packages/connectivity) - The package used to check for internet connection
+
+
