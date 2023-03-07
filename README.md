@@ -13,7 +13,7 @@ You need to have Flutter installed on your machine. You can follow the instructi
 Clone the repository
 
 ```
-git clone https://github.com/abbeyseto/offline-mode-todos.git
+git clone <REPOSITORY_URL>
 ```
 
 Install dependencies
